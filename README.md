@@ -1,6 +1,6 @@
-## Hi there 👋
+## 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá!! Sou o Guilherme Braun,  atualmente estou buscando uma oportunidade na área de Segurança da informação! Aqui no meu perfil você poderá encontrar algumas atividades feitas na faculdade, e também alguns projetos pessoais divertidos! 😊 </h2>
 
 ###
 
@@ -33,15 +33,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/braungui/braungui/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNxMnp0a2E4bW9iYzFzdDZ0aDJzbjlpYnJxYjZucWtmcHAxN3pkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqZFH9159E1Dq/giphy.gif"  />
-</div>
-
 ###
 
 <picture align="center">
